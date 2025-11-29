@@ -1,0 +1,16 @@
+AssetID,AssetName,AssetType,Location,Status,SupportsUnit
+A01,Bridge Alpha,Bridge,Route X,Operational,U01
+A02,UAV-Z,UAV,Sector Echo,Active,U01
+A03,Artillery-2,Artillery,Ridge 203,Operational,U02
+A04,Fuel Depot,Fuel Depot,Base Camp East,Stable,U03
+A05,Supply Truck Alpha,Supply Truck,Route X,Active,U01
+A06,Comm Tower Bravo,Communications,Hill 402,Operational,U02
+A07,Medical Station,Medical Facility,Sector Echo,Active,U08
+A08,Ammo Depot Charlie,Ammunition Depot,Base Camp East,Stable,U06
+A09,Bridge Beta,Bridge,River Z,Operational,U10
+A10,Radar Station,Radar,Hill 402,Active,U04
+A11,Fuel Truck Delta,Fuel Truck,Western Sector,Active,U10
+A12,Supply Depot Echo,Supply Depot,Eastern Flank,Stable,U12
+A13,Artillery Fox,Artillery,Western Ridge,Operational,U10
+A14,Drone Charlie,UAV,Eastern Flank,Active,U12
+A15,Repair Station,Maintenance,Base Camp East,Stable,U07

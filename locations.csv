@@ -1,0 +1,15 @@
+LocationID,LocationName,TerrainType,LineOfSight,WeatherCondition
+L01,Hill 402,Forest,Moderate,Foggy
+L02,Route X,Road,Open,Clear
+L03,Sector Echo,Mixed,High,Rain
+L04,Ridge 203,Mountain,High,Clear
+L05,Base Camp East,Open,Moderate,Clear
+L06,Sector East,Mixed,Moderate,Foggy
+L07,Western Sector,Forest,Low,Rain
+L08,Eastern Flank,Open,High,Clear
+L09,River Z,Water,Open,Clear
+L10,Western Ridge,Mountain,High,Clear
+L11,Near Hill 402,Forest,Moderate,Foggy
+L12,Valley Alpha,Valley,Low,Rain
+L13,Checkpoint Bravo,Road,Open,Clear
+L14,Forward Post Charlie,Mixed,Moderate,Clear

@@ -1,0 +1,11 @@
+MissionID,MissionName,Priority,Objective,AssignedUnit,RequiresSupply
+M01,Mission Viper,High,Hold eastern perimeter,U01,Yes
+M02,Mission Sentinel,Medium,Monitor Hill 402,U02,Yes
+M03,Operation Flanker,High,Secure western sector,U10,Yes
+M04,Recon Alpha,Medium,Scout eastern routes,U05,No
+M05,Supply Run Beta,Low,Resupply forward units,U09,Yes
+M06,Fire Support Charlie,High,Provide artillery cover,U06,Yes
+M07,Medical Evacuation,Medium,Casualty extraction,U08,Yes
+M08,Engineering Support,Low,Repair infrastructure,U07,Yes
+M09,Patrol Delta,Medium,Area surveillance,U12,No
+M10,Communication Relay,High,Maintain comm links,U04,No

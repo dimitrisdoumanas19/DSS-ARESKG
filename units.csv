@@ -1,0 +1,13 @@
+UnitID,UnitName,UnitType,ReadinessLevel,Location,ParentUnit,MissionName,NeedsReinforcement,ThreatLevel
+U01,Alpha Company,Company,95,Sector East,HQ Battalion,Mission Viper,No,medium
+U02,Bravo Platoon,Platoon,60,Sector East,Alpha Company,Mission Sentinel,Yes,High
+U03,Echo Support,Support,85,Near Hill 402,HQ Battalion,Blank,No,Low
+U04,Charlie Squad,Squad,75,Hill 402,Bravo Platoon,Mission Sentinel,Yes,High
+U05,Delta Recon,Recon,90,Route X,Alpha Company,Mission Viper,No,medium
+U06,Fox Artillery,Artillery,80,Ridge 203,HQ Battalion,Mission Viper,No,Low
+U07,Golf Engineers,Engineers,70,Base Camp East,HQ Battalion,Blank,Yes,Low
+U08,Hotel Medics,Medical,65,Sector Echo,Alpha Company,Mission Sentinel,Yes,medium
+U09,India Logistics,Logistics,55,Base Camp East,HQ Battalion,Blank,Yes,Low
+U10,Juliet Infantry,Infantry,85,Western Sector,Alpha Company,Mission Viper,No,medium
+U11,Kilo Mortars,Mortar,75,Hill 402,Bravo Platoon,Mission Sentinel,No,High
+U12,Lima Scouts,Recon,80,Eastern Flank,Delta Recon,Mission Viper,No,medium

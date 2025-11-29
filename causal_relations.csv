@@ -1,0 +1,16 @@
+CauseEntity,CauseType,EffectEntity,EffectType,RelationshipLabel
+Bridge Alpha,Asset,Route X,Location,BLOCKS_ROUTE
+Route X,Location,Alpha Company,Unit,LIMITS_MOBILITY_OF
+Fuel Depot,Asset,Echo Support,Unit,IS_SUPPLIED_BY
+UAV-Z,Asset,Mission Sentinel,Mission,ENABLES_SURVEILLANCE
+Artillery-2,Asset,Sector Echo,Location,PROVIDES_FIRE_SUPPORT_TO
+Bridge Beta,Asset,River Z,Location,ENABLES_CROSSING_OF
+Radar Station,Asset,Hill 402,Location,PROVIDES_SURVEILLANCE_OF
+Fuel Truck Delta,Asset,Western Sector,Location,SUPPLIES_FUEL_TO
+Supply Depot Echo,Asset,Eastern Flank,Location,SUPPORTS_OPERATIONS_AT
+Comm Tower Bravo,Asset,Hill 402,Location,PROVIDES_COMMUNICATIONS_FOR
+Artillery Fox,Asset,Western Ridge,Location,CONTROLS_FIRE_ZONE_OF
+Medical Station,Asset,Sector Echo,Location,PROVIDES_MEDICAL_SUPPORT_TO
+Ammo Depot Charlie,Asset,Artillery-2,Asset,SUPPLIES_AMMUNITION_TO
+Repair Station,Asset,Supply Truck Alpha,Asset,MAINTAINS_VEHICLE
+Drone Charlie,Asset,Eastern Flank,Location,MONITORS_AREA_OF

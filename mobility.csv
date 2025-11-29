@@ -1,0 +1,8 @@
+MobilityID,MobilityName,MobilityType,Capacity,Status,Location
+MOB01,Transport Alpha,Truck,20,Available,Base Camp East
+MOB02,APC Bravo,Armored Vehicle,12,Active,Sector East
+MOB03,Helicopter Charlie,Aircraft,8,Available,Base Camp East
+MOB04,Transport Delta,Truck,20,Maintenance,Base Camp East
+MOB05,Boat Echo,Watercraft,15,Available,River Z
+MOB06,APC Fox,Armored Vehicle,12,Active,Western Sector
+MOB07,Transport Golf,Truck,20,Available,Eastern Flank

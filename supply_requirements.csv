@@ -1,0 +1,13 @@
+UnitID,AssetID,SupplyType,Priority
+U01,A04,Fuel,High
+U01,A08,Ammunition,High
+U02,A04,Fuel,Medium
+U02,A08,Ammunition,High
+U03,A04,Fuel,High
+U06,A08,Ammunition,Critical
+U07,A15,Parts,Medium
+U08,A07,Medical,High
+U09,A04,Fuel,Critical
+U10,A11,Fuel,High
+U10,A13,Ammunition,High
+U12,A12,Supplies,Medium

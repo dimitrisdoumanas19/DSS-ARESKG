@@ -1,0 +1,10 @@
+CommNodeID,NodeName,NodeType,ConnectedTo,SupportsUnit
+C01,Relay R-5,Signal Relay,Hill 402,U02
+C02,Net Hub 7,Communications,Sector Echo,U01
+C03,Radio Tower Alpha,Radio Tower,Base Camp East,U03
+C04,Satellite Link Bravo,Satellite,Ridge 203,U06
+C05,Field Radio Charlie,Field Radio,Eastern Flank,U12
+C06,Comm Station Delta,Communications,Western Sector,U10
+C07,Repeater Echo,Signal Repeater,Route X,U05
+C08,Mobile Comm Fox,Mobile Communications,Hill 402,U04
+C09,Backup Radio Golf,Backup Radio,Sector Echo,U08

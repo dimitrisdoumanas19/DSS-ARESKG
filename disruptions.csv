@@ -1,0 +1,6 @@
+AssetID,MissionID,DisruptionType,Severity
+A01,M03,Route Blockage,High
+A02,M02,Surveillance Loss,Medium
+A06,M02,Communication Loss,High
+A09,M03,Access Denial,Critical
+A10,M02,Radar Blackout,Medium
